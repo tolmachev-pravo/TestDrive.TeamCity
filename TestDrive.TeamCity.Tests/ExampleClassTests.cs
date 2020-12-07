@@ -1,6 +1,7 @@
 using NUnit.Framework;
 using TestDrive.TeamCity.Library;
-using Should;
+using Shouldly;
+
 namespace TestDrive.TeamCity.Tests
 {
     [TestFixture]
