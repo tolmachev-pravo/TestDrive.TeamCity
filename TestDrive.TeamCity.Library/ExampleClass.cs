@@ -7,7 +7,7 @@ namespace TestDrive.TeamCity.Library
     /// <summary>
     /// Summary of ExampleClass
     /// </summary>
-    class ExampleClass
+    public class ExampleClass
     {
     }
 }
