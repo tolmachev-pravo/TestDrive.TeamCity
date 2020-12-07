@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestDrive.TeamCity.Library</name>
+    </assembly>
+    <members>
+        <member name="T:TestDrive.TeamCity.Library.ExampleClass">
+            <summary>
+            Summary of ExampleClass
+            </summary>
+        </member>
+    </members>
+</doc>
