@@ -22,7 +22,7 @@ namespace TestDrive.TeamCity.Tests
             var summary = type.GetSummary();
 
             // Assert: 
-            summary.ShouldNotBeEmpty();
+            summary.ShouldBeEmpty();
         }
     }
 }
